@@ -7,7 +7,7 @@ import java.util.Random;
 public class SortingVisualizer extends JFrame {
 
     private JPanel optionsPanel;
-    private DrawPanel drawPanel;
+    private Drawpanel drawPanel;
     private JComboBox<String> algorithmComboBox;
     private JSlider speedSlider;
     private JSlider minSizeSlider;
